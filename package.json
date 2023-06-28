@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "front",
   "version": "0.1.0",
   "private": true,
@@ -43,22 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
-  "name": "exo3",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parse": "^0.1.0",
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "nodemon": "^2.0.22"
->>>>>>> df93957b5307bdd65555fed90e8d2f3e4ebe28b1
   }
 }

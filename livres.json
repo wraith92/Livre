@@ -1,72 +1,37 @@
 [
   {
-    "id": 3,
-    "title": "Titre du troisième livre",
-    "author": "Nom de l'auteur",
-    "price": 9.99,
-    "description": "Description du troisième livre"
+    "title": "la fourchette ",
+    "author": "auteur 1",
+    "price": 15,
+    "description": "desc 1\n",
+    "id": 1
   },
   {
-    "id": 4,
-    "title": "Titre du quatrième livre",
-    "author": "Nom de l'auteur",
-    "price": 14.99,
-    "description": "Description du quatrième livre"
+    "title": "title 2",
+    "author": "author",
+    "price": 12,
+    "description": " description 2",
+    "id": 2
   },
   {
-    "id": 5,
-    "title": "test",
-    "author": "test",
-    "price": 11111,
-    "description": "ez"
+    "title": "title 3",
+    "author": "author",
+    "price": 12,
+    "description": " description 3",
+    "id": 3
   },
   {
-    "id": 6,
-    "title": "Titre du sixième livre",
-    "author": "Nom de l'auteur",
-    "price": 16.99,
-    "description": "Description du sixième livre"
+    "title": "title 4",
+    "author": "author",
+    "price": 12,
+    "description": " description 4",
+    "id": 4
   },
   {
-    "id": 7,
-    "title": "titre",
-    "author": "aut",
-    "price": 11111,
-    "description": "11111"
-  },
-  {
-    "id": 8,
-    "title": "Titre du livre d'action 2",
-    "author": "Auteur d'action",
-    "price": 13.99,
-    "description": "Description du livre d'action 2"
-  },
-  {
-    "id": 9,
-    "title": "Titre du livre d'action 3",
-    "author": "Auteur d'action",
-    "price": 9.99,
-    "description": "Description du livre d'action 3"
-  },
-  {
-    "id": 10,
-    "title": "Titre du livre d'action 4",
-    "author": "Auteur d'action",
-    "price": 15.99,
-    "description": "Description du livre d'action 4"
-  },
-  {
-    "id": 11,
-    "title": "Ti",
-    "author": "Auteur d'action",
-    "price": 12.99,
-    "description": "Description du livre d'action 5"
-  },
-  {
-    "title": "text",
-    "author": "text",
-    "price": 12.3,
-    "description": "20",
-    "id": 12
+    "title": "title 5",
+    "author": "author",
+    "price": 12,
+    "description": " description 5",
+    "id": 5
   }
 ]
